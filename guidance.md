@@ -54,7 +54,7 @@ Note:
 
 ## 本日の発表
 
-+ ごまふあざらし: Lamp.jlの紹介
++ [ごまふあざらし: Lamp.jlの紹介](https://atelierarith.github.io/Lamp.jl/)
 + そのほか飛び入り参加あり（？）
 
 ---
