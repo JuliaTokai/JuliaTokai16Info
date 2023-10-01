@@ -54,6 +54,7 @@ Note:
 
 ## 本日の発表
 
++ antimon2: [Juliaってどんなことができるの？](https://speakerdeck.com/antimon2/juliatutedonnakotogadekiruno-for-juliatokai-number-16)
 + ごまふあざらし: Lamp.jlの紹介
 + そのほか飛び入り参加あり（？）
 
